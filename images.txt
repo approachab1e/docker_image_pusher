@@ -1,2 +1,1 @@
-emqx-enterprise:3.1.1
-
+nginx
