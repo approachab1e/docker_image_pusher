@@ -1,2 +1,2 @@
 franklin5/lanproxy-server
-nginx
+nginx:1.28.0
