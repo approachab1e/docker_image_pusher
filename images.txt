@@ -1,1 +1,2 @@
 franklin5/lanproxy-server
+nginx
